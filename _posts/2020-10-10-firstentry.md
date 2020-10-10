@@ -1,4 +1,3 @@
 # my blog
 
-try
-:disappointed:
+try :disappointed:
